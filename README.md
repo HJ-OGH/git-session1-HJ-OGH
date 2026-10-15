@@ -36,3 +36,7 @@ https://docs.github.com/en/get-started/using-github/hello-world
 
 This project was created for a Git and GitHub fundamentals assignment.
 It demonstrates repository setup, staging, commits, branching, and merging.
+## Remote Update
+
+This section was added directly on GitHub to practice
+fetching and pulling remote changes.

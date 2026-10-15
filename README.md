@@ -1,0 +1,33 @@
+
+# Git Session 1
+
+Hajar Ouaghad 
+HJ-OGH
+
+## Description
+
+This project demonstrates the fundamentals of Git and GitHub, including
+repository setup, staging, commits, branching, merging, and synchronization.
+
+## Technologies
+
+- Git
+- GitHub
+- Markdown
+- Terminal
+
+## Example
+
+```bash
+git status
+git log --oneline
+```
+
+## Useful Resource
+
+https://docs.github.com/en/get-started/using-github/hello-world
+
+## Provided Image
+
+![image](assets/project-banner.svg)
+

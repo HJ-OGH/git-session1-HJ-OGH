@@ -8,6 +8,7 @@ HJ-OGH
 
 This project demonstrates the fundamentals of Git and GitHub, including
 repository setup, staging, commits, branching, merging, and synchronization.
+We also practice the main Git/GitHub workflow from Session 1.
 
 ## Technologies
 

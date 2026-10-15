@@ -32,3 +32,7 @@ https://docs.github.com/en/get-started/using-github/hello-world
 
 ![image](assets/project-banner.svg)
 
+## About
+
+This project was created for a Git and GitHub fundamentals assignment.
+It demonstrates repository setup, staging, commits, branching, and merging.
